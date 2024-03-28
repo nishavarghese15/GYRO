@@ -21,7 +21,7 @@ Support from IRDE CARS project (No: RB2021EE206IRDE005001) is gratefully acknowl
 ## Cite Us
 If you use DRUVA, please cite the following work:
 ```
-@InProceedings{Varghese_2023_ICCV,
+@InProceedings{GRNet,
     author    = {Varghese, Nisha and Rajagopalan, A. N. and Ansari, Zahir Ahmed},
     title     = {Real-time Large-motion Deblurring for Gimbal-based imaging systems},
     booktitle = {IEEE Journal of Selected Topics in Signal Processing},
