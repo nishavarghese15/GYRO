@@ -29,7 +29,7 @@ After you submit the request form, you will receive an e-mail notification (with
 Support from IRDE CARS project (No: RB2021EE206IRDE005001) is gratefully acknowledged.
 
 ## Cite Us
-If you use DRUVA, please cite the following work:
+If you use GYRO, please cite the following work:
 ```
 @InProceedings{GRNet,
     author    = {Varghese, Nisha and Rajagopalan, A. N. and Ansari, Zahir Ahmed},
