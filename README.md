@@ -14,6 +14,13 @@ Sample frames from each set and the statistics of GYRO dataset are given below.
 ![GYRO statistics](https://github.com/nishavarghese15/GYRO/assets/93310210/e49047f4-07ce-4bfb-bc06-fc920e32937c)
 
 
+![GYRO 2](https://github.com/nishavarghese15/GYRO/assets/93310210/15d2bea4-9664-487f-8317-43ab954e7f92)
+
+![GYRO stat2](https://github.com/nishavarghese15/GYRO/assets/93310210/721d1559-3c93-4bce-935e-fcfeaa905784)
+
+
+
+
 ## How to access the Dataset?
 1. Read the GYRO release agreement: link  
 1. Obtain a signed copy of the above agreement form.  
