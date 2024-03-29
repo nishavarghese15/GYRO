@@ -3,8 +3,10 @@
 Dataset proposed in "Real-time Large-motion Deblurring for Gimbal-based imaging systems", IEEE Journal of Selected Topics in Signal Processing, 2024.
 
 ## Summary of GYRO
-1. GYRO contains
-1. 
+1. GYRO is captured by a camera mounted on a gimbal where the gimbal undergoes to-and-fro rotational yaw motion. The gimbal is equipped with a gyroscope that measures the angular velocity,
+known as steering rate (SR) in angles per second.
+1. Using the gimbal setup with different steering rates of 1, 10, 20, 30, 40, 50, and 60 deg/sec, we captured RGB videos using Sony FCB-EX980S/P camera from two geographical areas and IR videos using a customized surveillance sight camera from three different geographical areas with 30 fps.
+1. GYRO contains two real RGB sets (DRGB1 and DRGB2), and three real IR sets (DIR1, DIR2, and DIR3). DIR1 contains IR scenes of some buildings and a tower placed against a mountainous backdrop. DIR2 and DRGB1 contain scenes of an urban setting with multiple houses in IR, and RGB domains, respectively. DIR3 and DRGB2 have views of a hilly terrain.
 
 
 ## How to access the Dataset?
