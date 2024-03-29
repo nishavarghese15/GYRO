@@ -9,10 +9,6 @@ known as steering rate (SR) in angles per second.
 1. GYRO contains two real RGB sets (DRGB1 and DRGB2), and three real IR sets (DIR1, DIR2, and DIR3). DIR1 contains IR scenes of some buildings and a tower placed against a mountainous backdrop. DIR2 and DRGB1 contain scenes of an urban setting with multiple houses in IR, and RGB domains, respectively. DIR3 and DRGB2 have views of a hilly terrain.
 
 Sample frames from each set and the statistics of GYRO dataset are given below. 
-![GYRO](https://github.com/nishavarghese15/GYRO/assets/93310210/5e21fe02-62b5-4a29-99fb-39e94f2d77e2)
-
-![GYRO statistics](https://github.com/nishavarghese15/GYRO/assets/93310210/e49047f4-07ce-4bfb-bc06-fc920e32937c)
-
 
 ![GYRO 2](https://github.com/nishavarghese15/GYRO/assets/93310210/15d2bea4-9664-487f-8317-43ab954e7f92)
 
