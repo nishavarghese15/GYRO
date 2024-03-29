@@ -11,8 +11,8 @@ known as steering rate (SR) in angles per second.
 Sample frames from each set and the statistics of GYRO dataset are given below. 
 
 ![GYRO 2](https://github.com/nishavarghese15/GYRO/assets/93310210/15d2bea4-9664-487f-8317-43ab954e7f92)
+![GYRO stat2](https://github.com/nishavarghese15/GYRO/assets/93310210/59f98c2a-da97-4199-8b09-e573520ded8d)
 
-![GYRO stat2](https://github.com/nishavarghese15/GYRO/assets/93310210/721d1559-3c93-4bce-935e-fcfeaa905784)
 
 
 
