@@ -18,9 +18,9 @@ Sample frames from each set and the statistics of GYRO dataset are given below.
 
 
 ## How to access the Dataset?
-1. Read the GYRO release agreement: link  
-1. Obtain a signed copy of the above agreement form.  
-1. Enter your details in the request form. link
+1. Read the GYRO release agreement: https://drive.google.com/file/d/1BFJ2ZuvKvVxH-nuu8qyyjkBt-GitW-LE/view?usp=sharing  
+1. Obtain a signed copy of the above agreement form.   
+1. Enter your details in the request form. [link](https://docs.google.com/forms/d/e/1FAIpQLSdbuVsnn1QXPg-OhKYEs0RRNZFY2zvDF_ds51I37nzMkaIxMg/viewform?usp=sf_link)
 1. Upload the agreement as part of the request form.
 
 After you submit the request form, you will receive an e-mail notification (within 5 working days) with the link to download the dataset.
