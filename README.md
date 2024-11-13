@@ -35,8 +35,8 @@ If you use GYRO, please cite the following work:
     author    = {Varghese, Nisha and Rajagopalan, A. N. and Ansari, Zahir Ahmed},
     title     = {Real-time Large-motion Deblurring for Gimbal-based imaging systems},
     booktitle = {IEEE Journal of Selected Topics in Signal Processing},
-    vol ={ }
+    vol ={18}
     year      = {2024},
-    pages     = {}
+    pages     = {346-357}
 }
 ```
